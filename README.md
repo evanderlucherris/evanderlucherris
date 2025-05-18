@@ -73,7 +73,8 @@ Comecei com manutenção de hardware, cresci em automação comercial e hoje cod
 ### 🎧 O que estou ouvindo agora
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=@evanderlucherris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=dvm32o3cgsh4e06jnuno10go6
+&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
 </p>
 
 
