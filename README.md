@@ -74,6 +74,7 @@ Comecei com manutenção de hardware, cresci em automação comercial e hoje cod
 
 ```md
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=evanderlucherris&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+  <img src="https://novatorem-evanderlucherris.vercel.app/api/spotify" alt="Evander Lucherris" />
 </p>
+
 
