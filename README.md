@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Olá, me chamo Evander Lucherris </h1>
+<h1 align="center">👨🏻‍💻 Hi there, I'm Evander Lucherris</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="rock-programmer">
@@ -18,17 +18,23 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-Sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (Unicsul)**, com previsão de conclusão em **junho de 2026**.  
-Tenho um pé na lógica e o outro na criatividade! Comecei com manutenção de hardware, evoluí na automação comercial e hoje mergulho fundo no mundo do código.
+I’m a **Systems Analysis and Development student** at **Universidade Cruzeiro do Sul (Unicsul)**, expected to graduate in **June 2026**.  
+My journey started in hardware maintenance, evolved through commercial automation, and today I'm diving deep into the world of code.
 
-⚡ Apaixonado por Python, APIs e automações.  
-🎯 Gosto de soluções simples, diretas e eficientes!
+⚡ Passionate about Python, APIs, and automation.  
+🎯 I enjoy building simple, efficient, and elegant solutions.
+
+With over 10 years of experience in the technology field, my journey began with basic courses and hardware maintenance, progressing through different roles and challenges until I reached software development. This path has allowed me to learn and grow in various aspects of the industry, from technical support to managing a computer store, where I developed valuable problem-solving and teamwork skills.
+
+Currently, I’m deepening my knowledge in Back-End development, focusing on Python, Django, Flask, and Machine Learning. I am eager to learn as much as possible and apply my knowledge to real-world projects, such as API development and data modeling. Throughout my learning, I dedicate myself to understanding best practices, always aiming to deliver well-structured and efficient solutions.
+
+I believe that my practical experience, combined with ongoing training in programming, provides me with a solid foundation to continue growing in the field of Back-End Development. I am always looking for new opportunities to learn and contribute to teams that share a passion for technology and innovation.
 
 ---
 
-### 🛠️ Tecnologias que domino
+### 🛠️ Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,24 +49,24 @@ Tenho um pé na lógica e o outro na criatividade! Comecei com manutenção de h
 
 ---
 
-### 📜 Certificações
+### 📜 Certifications
 
-- ✅ **Python 3 – Mundo 1, 2 e 3** (Curso em Vídeo - Gustavo Guanabara)  
-- ✅ **Lógica de Programação com C#** (Udemy - Nélio Alves)  
-- ✅ **Curso Completo de Python 3** (Udemy - Luis Otávio Miranda)  
-  Incluindo: Django, Flask, SQL, Regex, OOP, Testes Automatizados, Deploy em Linux
-
----
-
-### 🚀 Projetos em destaque
-
-- 🔗 [API de Cadastro com Django REST](https://github.com/evanderlucherris/api-cadastro)  
-- 🔗 [Reconhecimento de Imagens com TensorFlow](https://github.com/evanderlucherris/classificador-imagens)  
-- 🔗 [Sistema de Login com Flask](https://github.com/evanderlucherris/flask-login-system)
+- ✅ **Python 3 – Modules 1, 2, and 3** (Curso em Vídeo - Gustavo Guanabara)  
+- ✅ **Programming Logic with C#** (Udemy - Nélio Alves)  
+- ✅ **Complete Python 3 Course** (Udemy - Luis Otávio Miranda)  
+  Including: Django, Flask, SQL, Regex, OOP, Automated Testing, Linux Deploy
 
 ---
 
-### 📊 Estatísticas GitHub
+### 🚀 Featured Projects
+
+- 🔗 [User Registration API with Django REST](https://github.com/evanderlucherris/api-cadastro)  
+- 🔗 [Image Recognition with TensorFlow](https://github.com/evanderlucherris/classificador-imagens)  
+- 🔗 [Login System using Flask](https://github.com/evanderlucherris/flask-login-system)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evanderlucherris&show_icons=true&theme=radical&hide_border=true" />
