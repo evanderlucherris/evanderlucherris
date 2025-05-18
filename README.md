@@ -1,9 +1,8 @@
-<h1 align="center">🤘 Fala, dev headbanger! Eu sou o Evander Lucherris ⚙️</h1>
+<h1 align="center">⚙️ Fala, dev! Eu sou o Evander Lucherris 🤘</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="rock-programmer">
 </p>
-
 
 <p align="center">
   <a href="https://github.com/evanderlucherris">
@@ -19,17 +18,17 @@
 
 ---
 
-### 🎸 Sobre mim
+### 👨‍💻 Sobre mim
 
-Desenvolvedor **Back-End**, com um pé na lógica e o outro na música!  
-Comecei com manutenção de hardware, cresci em automação comercial e hoje codifico com paixão e atitude.
+Sou **estudante de Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul (Unicsul)**, com previsão de conclusão em **junho de 2026**.  
+Tenho um pé na lógica e o outro na criatividade! Comecei com manutenção de hardware, evoluí na automação comercial e hoje mergulho fundo no mundo do código.
 
-🔥 Amante de Python, APIs e soluções que funcionam de verdade.  
-🎶 Fã de música pesada e código limpo!
+⚡ Apaixonado por Python, APIs e automações.  
+🎯 Gosto de soluções simples, diretas e eficientes!
 
 ---
 
-### 🛠️ Ferramentas que tocam comigo
+### 🛠️ Tecnologias que domino
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,35 +45,24 @@ Comecei com manutenção de hardware, cresci em automação comercial e hoje cod
 
 ### 📜 Certificações
 
-- ✅ **Python 3 – Mundo 1, 2 e 3** (Gustavo Guanabara - Curso em vídeo) 
-- ✅ **Lógica de Programação com C#** (Nelio Alves - Udemy)  
-- ✅ **Curso Completo de Python 3** (Luis Otávio Miranda - Udemy)  
-  Incluindo: Django, Flask, SQL, Regex, OOP, testes, deploy em servidores Linux
+- ✅ **Python 3 – Mundo 1, 2 e 3** (Curso em Vídeo - Gustavo Guanabara)  
+- ✅ **Lógica de Programação com C#** (Udemy - Nélio Alves)  
+- ✅ **Curso Completo de Python 3** (Udemy - Luis Otávio Miranda)  
+  Incluindo: Django, Flask, SQL, Regex, OOP, Testes Automatizados, Deploy em Linux
 
 ---
 
-### 🚀 Projetos que valem um riff
+### 🚀 Projetos em destaque
 
-- 🔗 [**API de Cadastro com Django REST**](https://github.com/evanderlucherris/api-cadastro)  
-- 🔗 [**Reconhecimento de Imagens com TensorFlow**](https://github.com/evanderlucherris/classificador-imagens)  
-- 🔗 [**Sistema de Login com Flask**](https://github.com/evanderlucherris/flask-login-system)
+- 🔗 [API de Cadastro com Django REST](https://github.com/evanderlucherris/api-cadastro)  
+- 🔗 [Reconhecimento de Imagens com TensorFlow](https://github.com/evanderlucherris/classificador-imagens)  
+- 🔗 [Sistema de Login com Flask](https://github.com/evanderlucherris/flask-login-system)
 
 ---
 
-### 📈 Estatísticas no palco
+### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanderlucherris&show_icons=true&theme=metal&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanderlucherris&layout=compact&theme=metal&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evanderlucherris&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanderlucherris&layout=compact&theme=radical&hide_border=true" />
 </p>
-
----
-
-### 🎧 O que estou ouvindo agora
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=dvm32o3cgsh4e06jnuno10go6
-&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</p>
-
-
