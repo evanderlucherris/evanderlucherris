@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Fala, dev! Eu sou o Evander Lucherris 🤘</h1>
+<h1 align="center">👨🏻‍💻 Olá, me chamo Evander Lucherris </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="rock-programmer">
