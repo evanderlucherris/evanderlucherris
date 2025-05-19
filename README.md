@@ -18,19 +18,58 @@
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I’m a **Systems Analysis and Development student** at **Universidade Cruzeiro do Sul (Unicsul)**, expected to graduate in **June 2026**.  
-My journey started in hardware maintenance, evolved through commercial automation, and today I'm diving deep into the world of code.
+I’m a **Systems Analysis and Development** student at **Universidade Cruzeiro do Sul (Unicsul)**, with graduation expected in **June 2026**.  
+My journey began in **hardware maintenance**, evolved through **commercial automation**, and today I'm fully immersed in the world of **software development**.
 
-⚡ Passionate about Python, APIs, and automation.  
-🎯 I enjoy building simple, efficient, and elegant solutions.
+---
 
-With over 10 years of experience in the technology field, my journey began with basic courses and hardware maintenance, progressing through different roles and challenges until I reached software development. This path has allowed me to learn and grow in various aspects of the industry, from technical support to managing a computer store, where I developed valuable problem-solving and teamwork skills.
+## ⚡ What Drives Me
 
-Currently, I’m deepening my knowledge in Back-End development, focusing on Python, Django, Flask, and Machine Learning. I am eager to learn as much as possible and apply my knowledge to real-world projects, such as API development and data modeling. Throughout my learning, I dedicate myself to understanding best practices, always aiming to deliver well-structured and efficient solutions.
+- 🔥 Passionate about **Python**, **APIs**, and **automation**
+- 🎯 Focused on building **simple**, **efficient**, and **elegant solutions**
+- 🤖 Currently diving into **Back-End development** and **Machine Learning**
 
-I believe that my practical experience, combined with ongoing training in programming, provides me with a solid foundation to continue growing in the field of Back-End Development. I am always looking for new opportunities to learn and contribute to teams that share a passion for technology and innovation.
+---
+
+## 💼 My Background
+
+With **over 10 years of experience** in the technology field, my journey has covered:
+
+- 🛠️ **Technical Support**: Starting with basic courses and hands-on hardware maintenance.
+- 🏬 **Entrepreneurship**: Co-managing a **computer store**, solving problems and leading customer-focused solutions.
+- 💻 **Software Development**: Now focusing on programming, creating **real-world applications** with Python, Django, Flask, and more.
+
+This diverse experience has sharpened my skills in:
+
+- 🔍 **Problem-solving**
+- 🤝 **Teamwork**
+- 🧠 **Continuous Learning**
+
+---
+
+## 📚 Current Focus
+
+- 🐍 Back-End Development with **Python**
+- 🌐 Building **RESTful APIs**
+- 📊 Data Modeling and **Machine Learning** (Pandas, TensorFlow, Keras)
+- 🧪 Writing tests with **PyTest**
+- 🧱 Developing solid, maintainable architectures with **Django** and **Flask**
+
+---
+
+## 🚀 My Vision
+
+I believe that combining practical experience with structured learning provides a strong foundation for success in **Back-End Development**.  
+I'm constantly looking for opportunities to:
+
+- 📈 **Grow professionally**
+- 🤝 **Collaborate with passionate teams**
+- 🧩 **Create impactful, real-world solutions**
+
+Let’s connect and build something awesome together!
+
 
 ---
 
